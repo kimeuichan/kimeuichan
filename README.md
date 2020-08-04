@@ -3,12 +3,6 @@
 ### 경력
 #### (주)헤렌(2019.12~)
 - 인스타차트
-    - Falcon
-    - python async
-    - pytest
-    - Elastic Beanstalk
-    - Docker
-    - RDS(Mysql)
 
 ### 관심사
 - Java(Spring boot)
