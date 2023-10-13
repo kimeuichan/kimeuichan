@@ -6,9 +6,7 @@
 - Python Developer
 
 ### 관심사
+- Rust
 - Devops
-- Kubernetes
 - Go
-- Java(Spring boot)
-- Python
 
